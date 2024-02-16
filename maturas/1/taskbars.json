@@ -1,0 +1,359 @@
+[
+  {
+    "page": 4,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      1
+    ],
+    "exercisePath": "./maturas/1/exercises/1.png"
+  },
+  {
+    "page": 4,
+    "y": 528,
+    "h": 15,
+    "taskNumber": [
+      2
+    ],
+    "exercisePath": "./maturas/1/exercises/2.png"
+  },
+  {
+    "page": 5,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      3
+    ],
+    "exercisePath": "./maturas/1/exercises/3.png"
+  },
+  {
+    "page": 6,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      4
+    ],
+    "exercisePath": "./maturas/1/exercises/4.png"
+  },
+  {
+    "page": 6,
+    "y": 568,
+    "h": 16,
+    "taskNumber": [
+      5
+    ],
+    "exercisePath": "./maturas/1/exercises/5.png"
+  },
+  {
+    "page": 7,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      6
+    ],
+    "exercisePath": "./maturas/1/exercises/6.png"
+  },
+  {
+    "page": 7,
+    "y": 485,
+    "h": 15,
+    "taskNumber": [
+      7
+    ],
+    "exercisePath": "./maturas/1/exercises/7.png"
+  },
+  {
+    "page": 8,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      8
+    ],
+    "exercisePath": "./maturas/1/exercises/8.png"
+  },
+  {
+    "page": 9,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      9
+    ],
+    "exercisePath": "./maturas/1/exercises/9.png"
+  },
+  {
+    "page": 10,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      10
+    ],
+    "exercisePath": "./maturas/1/exercises/10.png"
+  },
+  {
+    "page": 11,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      11
+    ],
+    "exercisePath": "./maturas/1/exercises/11.png"
+  },
+  {
+    "page": 11,
+    "y": 514,
+    "h": 16,
+    "taskNumber": [
+      12
+    ],
+    "exercisePath": "./maturas/1/exercises/12.png"
+  },
+  {
+    "page": 12,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      13
+    ],
+    "exercisePath": "./maturas/1/exercises/13.png"
+  },
+  {
+    "page": 12,
+    "y": 436,
+    "h": 16,
+    "taskNumber": [
+      13,
+      1
+    ],
+    "exercisePath": "./maturas/1/exercises/13.1.png"
+  },
+  {
+    "page": 13,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      13,
+      2
+    ],
+    "exercisePath": "./maturas/1/exercises/13.2.png"
+  },
+  {
+    "page": 14,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      14
+    ],
+    "exercisePath": "./maturas/1/exercises/14.png"
+  },
+  {
+    "page": 15,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      15
+    ],
+    "exercisePath": "./maturas/1/exercises/15.png"
+  },
+  {
+    "page": 15,
+    "y": 255,
+    "h": 16,
+    "taskNumber": [
+      15,
+      1
+    ],
+    "exercisePath": "./maturas/1/exercises/15.1.png"
+  },
+  {
+    "page": 15,
+    "y": 611,
+    "h": 16,
+    "taskNumber": [
+      15,
+      2
+    ],
+    "exercisePath": "./maturas/1/exercises/15.2.png"
+  },
+  {
+    "page": 16,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      16
+    ],
+    "exercisePath": "./maturas/1/exercises/16.png"
+  },
+  {
+    "page": 16,
+    "y": 543,
+    "h": 15,
+    "taskNumber": [
+      17
+    ],
+    "exercisePath": "./maturas/1/exercises/17.png"
+  },
+  {
+    "page": 17,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      18
+    ],
+    "exercisePath": "./maturas/1/exercises/18.png"
+  },
+  {
+    "page": 17,
+    "y": 586,
+    "h": 16,
+    "taskNumber": [
+      19
+    ],
+    "exercisePath": "./maturas/1/exercises/19.png"
+  },
+  {
+    "page": 18,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      20
+    ],
+    "exercisePath": "./maturas/1/exercises/20.png"
+  },
+  {
+    "page": 19,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      21
+    ],
+    "exercisePath": "./maturas/1/exercises/21.png"
+  },
+  {
+    "page": 20,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      22
+    ],
+    "exercisePath": "./maturas/1/exercises/22.png"
+  },
+  {
+    "page": 21,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      23
+    ],
+    "exercisePath": "./maturas/1/exercises/23.png"
+  },
+  {
+    "page": 22,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      24
+    ],
+    "exercisePath": "./maturas/1/exercises/24.png"
+  },
+  {
+    "page": 23,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      25
+    ],
+    "exercisePath": "./maturas/1/exercises/25.png"
+  },
+  {
+    "page": 24,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      26
+    ],
+    "exercisePath": "./maturas/1/exercises/26.png"
+  },
+  {
+    "page": 24,
+    "y": 545,
+    "h": 16,
+    "taskNumber": [
+      27
+    ],
+    "exercisePath": "./maturas/1/exercises/27.png"
+  },
+  {
+    "page": 25,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      28
+    ],
+    "exercisePath": "./maturas/1/exercises/28.png"
+  },
+  {
+    "page": 26,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      29
+    ],
+    "exercisePath": "./maturas/1/exercises/29.png"
+  },
+  {
+    "page": 26,
+    "y": 181,
+    "h": 16,
+    "taskNumber": [
+      29,
+      1
+    ],
+    "exercisePath": "./maturas/1/exercises/29.1.png"
+  },
+  {
+    "page": 26,
+    "y": 585,
+    "h": 16,
+    "taskNumber": [
+      29,
+      2
+    ],
+    "exercisePath": "./maturas/1/exercises/29.2.png"
+  },
+  {
+    "page": 27,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      30
+    ],
+    "exercisePath": "./maturas/1/exercises/30.png"
+  },
+  {
+    "page": 28,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      31
+    ],
+    "exercisePath": "./maturas/1/exercises/31.png"
+  },
+  {
+    "page": 29,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      32
+    ],
+    "exercisePath": "./maturas/1/exercises/32.png"
+  },
+  {
+    "page": 30,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      33
+    ],
+    "exercisePath": "./maturas/1/exercises/33.png"
+  }
+]

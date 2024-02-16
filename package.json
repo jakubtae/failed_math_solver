@@ -1,0 +1,23 @@
+{
+  "name": "math_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.22.10",
+    "openai": "^4.0.0",
+    "pdf-poppler": "^0.2.1",
+    "pdf2pic": "^3.1.1",
+    "pdftopic": "^1.0.1-alpha",
+    "tesseract.js": "^5.0.4"
+  }
+}

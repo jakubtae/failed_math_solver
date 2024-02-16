@@ -1,0 +1,367 @@
+[
+  {
+    "page": 4,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      1
+    ],
+    "ocr": "Zadanie 1. (0-1) mmo¥\n",
+    "exercisePath": "./maturas/2/exercises/1.png"
+  },
+  {
+    "page": 4,
+    "y": 570,
+    "h": 16,
+    "taskNumber": [
+      2
+    ],
+    "ocr": "~~ Zadanie 2. (0-1) mmmm¥ |\n",
+    "exercisePath": "./maturas/2/exercises/2.png"
+  },
+  {
+    "page": 5,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      3
+    ],
+    "ocr": "Zadanie 3. (0-2) | 3\n",
+    "exercisePath": "./maturas/2/exercises/3.png"
+  },
+  {
+    "page": 6,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      4
+    ],
+    "ocr": "Zadanie 4. (0-1) mo¥\n",
+    "exercisePath": "./maturas/2/exercises/4.png"
+  },
+  {
+    "page": 6,
+    "y": 490,
+    "h": 16,
+    "taskNumber": [
+      5
+    ],
+    "ocr": "Zadanie 5. (0-1) mm@¢\n",
+    "exercisePath": "./maturas/2/exercises/5.png"
+  },
+  {
+    "page": 7,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      6
+    ],
+    "ocr": "Zadanie 6. (0-1) mmmo¥\n",
+    "exercisePath": "./maturas/2/exercises/6.png"
+  },
+  {
+    "page": 7,
+    "y": 579,
+    "h": 16,
+    "taskNumber": [
+      7
+    ],
+    "ocr": "~~ Zadanie 7. (0-1) |\n",
+    "exercisePath": "./maturas/2/exercises/7.png"
+  },
+  {
+    "page": 8,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      8
+    ],
+    "ocr": "Zadanie 8. (0-1) mmmm¥\n",
+    "exercisePath": "./maturas/2/exercises/8.png"
+  },
+  {
+    "page": 8,
+    "y": 566,
+    "h": 16,
+    "taskNumber": [
+      9
+    ],
+    "ocr": "P32 Zadanie 9. (0-3)\n",
+    "exercisePath": "./maturas/2/exercises/9.png"
+  },
+  {
+    "page": 10,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      10
+    ],
+    "ocr": "Zadanie 10. (0-1) mm#\n",
+    "exercisePath": "./maturas/2/exercises/10.png"
+  },
+  {
+    "page": 11,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      11
+    ],
+    "ocr": "~~ Zadanie 11. (0-2) yr\n",
+    "exercisePath": "./maturas/2/exercises/11.png"
+  },
+  {
+    "page": 12,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      12
+    ],
+    "ocr": "~~ Zadanie 12. yr\n",
+    "exercisePath": "./maturas/2/exercises/12.png"
+  },
+  {
+    "page": 12,
+    "y": 426,
+    "h": 16,
+    "taskNumber": [
+      12,
+      1
+    ],
+    "ocr": "Zadanie 12.1. (0-1)mmmmé”\n",
+    "exercisePath": "./maturas/2/exercises/12.1.png"
+  },
+  {
+    "page": 12,
+    "y": 691,
+    "h": 16,
+    "taskNumber": [
+      12,
+      2
+    ],
+    "ocr": "Zadanie 12.2. (0-1)mm¢\n",
+    "exercisePath": "./maturas/2/exercises/12.2.png"
+  },
+  {
+    "page": 13,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      12,
+      3
+    ],
+    "ocr": "Zadanie 12.3. (0-1)mmmm#\n",
+    "exercisePath": "./maturas/2/exercises/12.3.png"
+  },
+  {
+    "page": 13,
+    "y": 405,
+    "h": 16,
+    "taskNumber": [
+      13
+    ],
+    "ocr": "Zadanie 13. (0-1) mm#¢\n",
+    "exercisePath": "./maturas/2/exercises/13.png"
+  },
+  {
+    "page": 14,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      14
+    ],
+    "ocr": "Zadanie 14. (0-1) mmo#\n",
+    "exercisePath": "./maturas/2/exercises/14.png"
+  },
+  {
+    "page": 15,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      15
+    ],
+    "ocr": "Zadanie 15. (0-1) mmm#\n",
+    "exercisePath": "./maturas/2/exercises/15.png"
+  },
+  {
+    "page": 15,
+    "y": 513,
+    "h": 16,
+    "taskNumber": [
+      16
+    ],
+    "ocr": "Zadanie 16. (0-1) mm#¢\n",
+    "exercisePath": "./maturas/2/exercises/16.png"
+  },
+  {
+    "page": 16,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      17
+    ],
+    "ocr": "~~ Zadanie 17. (0-2) yr\n",
+    "exercisePath": "./maturas/2/exercises/17.png"
+  },
+  {
+    "page": 17,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      18
+    ],
+    "ocr": "Zadanie 18. (0-1) mmm#\n",
+    "exercisePath": "./maturas/2/exercises/18.png"
+  },
+  {
+    "page": 17,
+    "y": 617,
+    "h": 16,
+    "taskNumber": [
+      19
+    ],
+    "ocr": "Zadanie 19. (0-1) mm¥¢\n",
+    "exercisePath": "./maturas/2/exercises/19.png"
+  },
+  {
+    "page": 18,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      20
+    ],
+    "ocr": "Zadanie 20. (0-1) mmm#\n",
+    "exercisePath": "./maturas/2/exercises/20.png"
+  },
+  {
+    "page": 18,
+    "y": 495,
+    "h": 16,
+    "taskNumber": [
+      21
+    ],
+    "ocr": "Zadanie 21. (0-1) mm#¢\n",
+    "exercisePath": "./maturas/2/exercises/21.png"
+  },
+  {
+    "page": 19,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      22
+    ],
+    "ocr": "~~ Zadanie 22. (0-2) yr\n",
+    "exercisePath": "./maturas/2/exercises/22.png"
+  },
+  {
+    "page": 20,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      23
+    ],
+    "ocr": "Zadanie 23. (0-1) mmo#\n",
+    "exercisePath": "./maturas/2/exercises/23.png"
+  },
+  {
+    "page": 21,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      24
+    ],
+    "ocr": "Zadanie 24. (0-1) mmo#\n",
+    "exercisePath": "./maturas/2/exercises/24.png"
+  },
+  {
+    "page": 21,
+    "y": 555,
+    "h": 15,
+    "taskNumber": [
+      25
+    ],
+    "ocr": "Zadanie 25. (0-1) mm\n",
+    "exercisePath": "./maturas/2/exercises/25.png"
+  },
+  {
+    "page": 22,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      26
+    ],
+    "ocr": "~~ Zadanie 26. (0-4) yr\n",
+    "exercisePath": "./maturas/2/exercises/26.png"
+  },
+  {
+    "page": 24,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      27
+    ],
+    "ocr": "Zadanie 27. (0-1) ommm#\n",
+    "exercisePath": "./maturas/2/exercises/27.png"
+  },
+  {
+    "page": 24,
+    "y": 528,
+    "h": 15,
+    "taskNumber": [
+      28
+    ],
+    "ocr": "Zadanie 28. (0-1) mm\n",
+    "exercisePath": "./maturas/2/exercises/28.png"
+  },
+  {
+    "page": 25,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      29
+    ],
+    "ocr": "~~ Zadanie 29. (0-2) yr\n",
+    "exercisePath": "./maturas/2/exercises/29.png"
+  },
+  {
+    "page": 26,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      30
+    ],
+    "ocr": "~~ Zadanie 30. (0-2) yr\n",
+    "exercisePath": "./maturas/2/exercises/30.png"
+  },
+  {
+    "page": 27,
+    "y": 87,
+    "h": 15,
+    "taskNumber": [
+      31
+    ],
+    "ocr": "~~ Zadanie 31. yr\n",
+    "exercisePath": "./maturas/2/exercises/31.png"
+  },
+  {
+    "page": 27,
+    "y": 251,
+    "h": 15,
+    "taskNumber": [
+      31,
+      1
+    ],
+    "ocr": "Zadanie 31.1. (0-1)mm#”\n",
+    "exercisePath": "./maturas/2/exercises/31.1.png"
+  },
+  {
+    "page": 27,
+    "y": 630,
+    "h": 16,
+    "taskNumber": [
+      31,
+      2
+    ],
+    "ocr": "Zadanie 31.2. (0-2) | 312. |\n",
+    "exercisePath": "./maturas/2/exercises/31.2.png"
+  }
+]
